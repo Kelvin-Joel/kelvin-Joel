@@ -1,8 +1,8 @@
 ### Hi there 👋
 Joel Ventura Web Developer
-![code-2434271_1280](https://user-images.githubusercontent.com/48741834/100897514-c419f280-348d-11eb-86f3-3bbd20a5d59f.jpg)
+![code-2434271_1280](https://user-images.githubusercontent.com/48741834/100899127-7c946600-348f-11eb-95b5-da695b20dfc5.jpg)
 
-Hola me llamo Joel Ventura Soy Desarrollador Web Completamente Autodidacta, soy un amante de la tecnologia y soy de peru, en mi tiempos libre me gusta crear todo tipo de animaciones web con html, css & JavaScript
+Soy Desarrollador Web Completamente Autodidacta, soy un amante de la tecnologia y soy de peru, en mi tiempos libre me gusta crear todo tipo de animaciones web con html, css & JavaScript
 <!--
 **Kelvin-Joel/kelvin-Joel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
