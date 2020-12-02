@@ -19,7 +19,7 @@ en mi tiempos libre me gusta crear todo tipo de animaciones web con html, css & 
             this.locaction=locaction
         }
         saludar(name){
-            console.log(`Hola Mi Nombre Es ${name} Y Soy ${stakc}`)
+            console.log(`Hola Mi Nombre Es ${name} Y Soy ${stack}`)
     }
     }
 
