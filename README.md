@@ -18,7 +18,7 @@
             this.locaction=locaction
         }
         saludar(name){
-            console.log(`Hola Mi Nombre Es ${name} Y Soy Frontend Developer`)
+            console.log(`Hola Mi Nombre Es ${name} Y Soy ${stakc}`)
     }
     }
 
