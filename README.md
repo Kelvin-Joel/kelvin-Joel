@@ -1,7 +1,7 @@
 ### Hi there 👋
-```html
-<h1>😃 Joel Ventura Web Developer 💻⌨</h1>
-```
+
+### 😃 Joel Ventura Web Developer 💻⌨
+
 
 ![code-2434271_1280](https://user-images.githubusercontent.com/48741834/100899127-7c946600-348f-11eb-95b5-da695b20dfc5.jpg)
 ```html
@@ -25,8 +25,8 @@ About
     const dato=new NewDatos('Joel Ventura','Frontend Developer','Peru')
     
      skills=['Html','Css','Sass','JavaScript','Botstrap']
-
 ```
+![javascript](https://user-images.githubusercontent.com/48741834/100904693-3fcb6d80-3495-11eb-9d38-aaa9a31242a4.png)
 
 <!--
 **Kelvin-Joel/kelvin-Joel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
