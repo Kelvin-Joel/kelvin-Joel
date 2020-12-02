@@ -1,5 +1,5 @@
 ### Hi there 👋
-![code-2434271_1280](https://user-images.githubusercontent.com/48741834/100896696-e3fce680-348c-11eb-819e-13773a0e4f6d.jpg)
+![code-2434271_1280](https://user-images.githubusercontent.com/48741834/100897514-c419f280-348d-11eb-86f3-3bbd20a5d59f.jpg)
 
 Hola me llamo Joel Ventura Soy Desarrollador Web Completamente Autodidacta, soy un amante de la tecnologia y soy de peru, en mi tiempos libre me gusta crear todo tipo de animaciones web con html, css & JavaScript
 <!--
