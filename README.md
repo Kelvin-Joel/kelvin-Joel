@@ -15,6 +15,7 @@ en mi tiempos libre me gusta crear todo tipo de animaciones web con html, css & 
     const NewDatos=(name,stack,location)=>{
       return console.log(`mi nombres ${name} soy ${stack} y soy de ${location}`)
     }
+    console.log(NewDatos())
     
      skills=['Html','Css','Sass','JavaScript','Botstrap']
 ```
