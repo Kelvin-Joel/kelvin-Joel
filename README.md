@@ -11,20 +11,13 @@ en mi tiempos libre me gusta crear todo tipo de animaciones web con html, css & 
 ```
 ### About
 
-```js 
- class NewDatos{
-        constructor (nanme,stack,locaction){
-            this.nanme=name
-            this.stack=stack
-            this.locaction=locaction
-        }
-        saludar(name){
-            console.log(`Hola Mi Nombre Es ${name} Y Soy ${stack}`)
-    }
-    }
-
+```js
     const dato=new NewDatos('Joel Ventura','Frontend Developer','Peru')
     dato.saludar('Joel Ventura')
+    
+    const NewDatos=(name,stack,location)=>{
+      return console.log(`mi nombres ${name} soy ${stack} y soy de ${location}`)
+    }
     
      skills=['Html','Css','Sass','JavaScript','Botstrap']
 ```
