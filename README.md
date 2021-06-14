@@ -12,9 +12,6 @@ en mi tiempos libre me gusta crear todo tipo de animaciones web con html, css & 
 ### About
 
 ```js
-    const dato=new NewDatos('Joel Ventura','Frontend Developer','Peru')
-    dato.saludar('Joel Ventura')
-    
     const NewDatos=(name,stack,location)=>{
       return console.log(`mi nombres ${name} soy ${stack} y soy de ${location}`)
     }
