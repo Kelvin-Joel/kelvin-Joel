@@ -10,14 +10,17 @@ en mi tiempos libre me gusta crear todo tipo de animaciones web con html, css & 
 </main>
 ```
 ### About
-
-```js
-    const NewDatos=(name,stack,location)=>{
-      return console.log(`mi nombres ${name} soy ${stack} y soy de ${location}`)
-    }
-    console.log(NewDatos())
-    
-     skills=['Html','Css','Sass','JavaScript','Botstrap']
+### En El Camino De Llegar Hacer Un Full Stack 😎
+```html
+<h1>Actualmente Manejo Las Siguientes Tecnologias </h1>
+   <ul>
+       <li>Html</li>
+       <li>Css</li>
+       <li>Scss</li>  
+       <li>JavaScript</li>  
+       <li>Bootstrap</li>
+       <li>TailwindCss</li>
+</ul>
 ```
 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
