@@ -7,11 +7,12 @@
 ## Sobre Mi
 ```html
 <main>💻 Soy Desarrollador Web Completamente Autodidacta, soy un amante de la tecnologia, 
-en mi tiempos libre me gusta crear todo tipo de animaciones web con html, css & JavaScript 
+en mi tiempos libre me dedico a crear todo tipo de animaciones web en 2d y 3d con html, css & JavaScript 
 </main>
 ```
+<img src="https://user-images.githubusercontent.com/48741834/126106394-9f8d65f9-450c-474e-bbe3-e95b6a80f8fc.gif"/>
 
-### En El Camino De Llegar Hacer Un Full Stack 😎
+## En El Camino De Llegar Hacer Un Full Stack 😎
 
 ### Actualmente Manejo Las Siguientes Tecnologias 
 
@@ -21,10 +22,8 @@ en mi tiempos libre me gusta crear todo tipo de animaciones web con html, css & 
 * Scss
 * Boostrap
 * TailwindCss
-* 
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joelventura19/) <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joelventura19/)
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
  <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
  
