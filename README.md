@@ -23,6 +23,8 @@ en mi tiempos libre me dedico a crear todo tipo de animaciones web en 2d y 3d co
 * Boostrap
 * TailwindCss
 
+<img width="40%" src="https://user-images.githubusercontent.com/48741834/126108224-32524e56-83fc-4335-9ce1-4337b3c71f60.gif"/>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joelventura19/)
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
  <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
