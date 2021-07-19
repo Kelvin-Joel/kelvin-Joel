@@ -13,24 +13,14 @@ en mi tiempos libre me gusta crear todo tipo de animaciones web con html, css & 
 ### En El Camino De Llegar Hacer Un Full Stack 😎
 
 ### Actualmente Manejo Las Siguientes Tecnologias 
-```js
-   const Data={
-   nombre:'Joel Ventura Huancas',
-   Stack:'Front End',
-   Skills:['Html','Css','JavaScript','Scss','Bootstrap','TailwindCss'],
-   Nacionalidad:'Perú '
-   }
-```
-```html
-   <ul>
-       <li>Html</li>
-       <li>Css</li>
-       <li>Scss</li>  
-       <li>JavaScript</li>  
-       <li>Bootstrap</li>
-       <li>TailwindCss</li>
-</ul>
-```
+
+* Html
+* Css
+* JavaScript
+* Scss
+* Boostrap
+* TailwindCss
+
 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
