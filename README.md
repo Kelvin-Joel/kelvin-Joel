@@ -11,8 +11,9 @@ en mi tiempos libre me gusta crear todo tipo de animaciones web con html, css & 
 ```
 ### About
 ### En El Camino De Llegar Hacer Un Full Stack 😎
-```html
+
 ### Actualmente Manejo Las Siguientes Tecnologias
+```html
    <ul>
        <li>Html</li>
        <li>Css</li>
