@@ -12,7 +12,15 @@ en mi tiempos libre me gusta crear todo tipo de animaciones web con html, css & 
 ### About
 ### En El Camino De Llegar Hacer Un Full Stack 😎
 
-### Actualmente Manejo Las Siguientes Tecnologias
+### Actualmente Manejo Las Siguientes Tecnologias 
+```js
+   const Data={
+   nombre:'Joel Ventura Huancas',
+   Stack:'Front End',
+   Skills:['Html','Css','JavaScript','Scss','Bootstrap','TailwindCss'],
+   Nacionalidad:'Perú '
+   }
+```
 ```html
    <ul>
        <li>Html</li>
