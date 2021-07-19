@@ -4,22 +4,24 @@
 
 
 ![code-2434271_1280](https://user-images.githubusercontent.com/48741834/100899127-7c946600-348f-11eb-95b5-da695b20dfc5.jpg)
+## Sobre Mi
 ```html
 <main>💻 Soy Desarrollador Web Completamente Autodidacta, soy un amante de la tecnologia, 
 en mi tiempos libre me gusta crear todo tipo de animaciones web con html, css & JavaScript 
 </main>
 ```
-### About
-### En El Camino De Llegar Hacer Un Full Stack 😎
+
+## [En El Camino De Llegar Hacer Un Full Stack] 😎
 
 ### Actualmente Manejo Las Siguientes Tecnologias 
 
-* Html
+* Html [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 * Css
-* JavaScript
+* JavaScript [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 * Scss
 * Boostrap
 * TailwindCss
+* 
 
 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
