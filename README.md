@@ -16,7 +16,7 @@ en mi tiempos libre me gusta crear todo tipo de animaciones web con html, css & 
 ### Actualmente Manejo Las Siguientes Tecnologias 
 
 * Html [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-* Css
+* Css <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
 * JavaScript [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 * Scss
 * Boostrap
@@ -24,14 +24,17 @@ en mi tiempos libre me gusta crear todo tipo de animaciones web con html, css & 
 * 
 
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joelventura19/) <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
  <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
  
 <a href="https://www.instagram.com/joelkelvinvh/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
+
 <!--
+
 **Kelvin-Joel/kelvin-Joel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
