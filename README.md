@@ -12,7 +12,7 @@ en mi tiempos libre me dedico a crear todo tipo de animaciones web en 2d y 3d co
 ```
 <img src="https://user-images.githubusercontent.com/48741834/126106394-9f8d65f9-450c-474e-bbe3-e95b6a80f8fc.gif"/>
 
-## En El Camino De Llegar Hacer Un Full Stack 😎
+## En El Camino De Ser Un Full Stack 😎
 
 ### Actualmente Manejo Las Siguientes Tecnologias 
 
