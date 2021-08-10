@@ -30,7 +30,7 @@ en mi tiempos libre me dedico a crear todo tipo de animaciones web en 2d y 3d co
  <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
  [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/joelkelvinvh/)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-joel)
 <!--
 
 **Kelvin-Joel/kelvin-Joel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
